@@ -1,0 +1,88 @@
+a:hover {
+background-color:#EAEAEA;
+color:#000
+}
+
+a:active {
+text-decoration:underline;
+color:#FFF
+}
+
+.required {
+color:red
+}
+
+.valid {
+background-color:#8FF783
+}
+
+.invalid {
+background-color:#FF8080
+}
+
+.notice {
+background-color:#FAF796
+}
+
+* {
+margin:0;
+padding:0
+}
+
+.searchbox {
+margin-bottom:0;
+width:300px;
+font-size:15px;
+padding:2px 0 5px 5px
+}
+
+.button {
+width:100px;
+height:27px;
+border:1px solid #000
+}
+
+.subButton {
+width:100px;
+height:27px
+}
+
+ul {
+list-style-type:none;
+margin:0;
+padding:0
+}
+
+li {
+display:inline
+}
+
+.menu {
+background-color:#8FA5BD;
+border-top:1px solid #000;
+border-bottom:1px solid #000
+}
+
+.menuitem {
+font-size:15px;
+font-weight:700
+}
+
+.bold {
+font-weight:700
+}
+
+.ctable {
+border:1px solid #000;
+border-collapse:collapse
+}
+
+.logobg {
+background-image:url('http://www.footesbooks.com/images/logobg.png');
+background-repeat:repeat-x
+}
+
+a:link,a:visited {
+text-decoration:none;
+color:#000
+}
